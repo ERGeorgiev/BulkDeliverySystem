@@ -1,8 +1,6 @@
 # Bulk Delivery System (Cat Feeder)
 
-*This Bulk Delivery System is my dissertation for the Technical University of Sofia. *
-*The system was implemented as a cat feeder for the demonstration. *
-*It is currently written in Bulgarian and I have not translated it in English yet. *
+*This Bulk Delivery System is my dissertation for the Technical University of Sofia. The system was implemented as a cat feeder for the demonstration. It is currently written in Bulgarian and I have not translated it in English yet.*
 
 ## Main Elements
 
