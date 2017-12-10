@@ -29,6 +29,7 @@
 | Languages |
 | --- |
 |C / C++|
+|Arduino|
 
 ## References
 
